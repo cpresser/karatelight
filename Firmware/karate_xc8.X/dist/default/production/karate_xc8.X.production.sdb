@@ -1,0 +1,2079 @@
+[p LITE_MODE AUTOSTATIC LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F45K50 ]
+[d frameptr 4065 ]
+"75 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[e E7574 . `uc
+DETACHED_STATE 0
+ATTACHED_STATE 1
+POWERED_STATE 2
+DEFAULT_STATE 4
+ADR_PENDING_STATE 8
+ADDRESS_STATE 16
+CONFIGURED_STATE 32
+]
+"261
+[e E7517 . `ui
+EVENT_NONE 0
+EVENT_DEVICE_STACK_BASE 1
+EVENT_HOST_STACK_BASE 100
+EVENT_HUB_ATTACH 101
+EVENT_STALL 102
+EVENT_VBUS_SES_REQUEST 103
+EVENT_VBUS_OVERCURRENT 104
+EVENT_VBUS_REQUEST_POWER 105
+EVENT_VBUS_RELEASE_POWER 106
+EVENT_VBUS_POWER_AVAILABLE 107
+EVENT_UNSUPPORTED_DEVICE 108
+EVENT_CANNOT_ENUMERATE 109
+EVENT_CLIENT_INIT_ERROR 110
+EVENT_OUT_OF_MEMORY 111
+EVENT_UNSPECIFIED_ERROR 112
+EVENT_DETACH 113
+EVENT_TRANSFER 114
+EVENT_SOF 115
+EVENT_RESUME 116
+EVENT_SUSPEND 117
+EVENT_RESET 118
+EVENT_DATA_ISOC_READ 119
+EVENT_DATA_ISOC_WRITE 120
+EVENT_OVERRIDE_CLIENT_DRIVER_SELECTION 121
+EVENT_1MS 122
+EVENT_GENERIC_BASE 400
+EVENT_MSD_BASE 500
+EVENT_HID_BASE 600
+EVENT_PRINTER_BASE 700
+EVENT_CDC_BASE 800
+EVENT_CHARGER_BASE 900
+EVENT_AUDIO_BASE 1000
+EVENT_USER_BASE 10000
+EVENT_BUS_ERROR 32767
+]
+"262
+[e E7583 . `uc
+EVENT_CONFIGURED 1
+EVENT_SET_DESCRIPTOR 2
+EVENT_EP0_REQUEST 3
+EVENT_ATTACH 4
+EVENT_TRANSFER_TERMINATED 5
+]
+"136 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[e E293 . `uc
+DETACHED_STATE 0
+ATTACHED_STATE 1
+POWERED_STATE 2
+DEFAULT_STATE 4
+ADR_PENDING_STATE 8
+ADDRESS_STATE 16
+CONFIGURED_STATE 32
+]
+"708
+[e E44 . `ui
+EVENT_NONE 0
+EVENT_DEVICE_STACK_BASE 1
+EVENT_HOST_STACK_BASE 100
+EVENT_HUB_ATTACH 101
+EVENT_STALL 102
+EVENT_VBUS_SES_REQUEST 103
+EVENT_VBUS_OVERCURRENT 104
+EVENT_VBUS_REQUEST_POWER 105
+EVENT_VBUS_RELEASE_POWER 106
+EVENT_VBUS_POWER_AVAILABLE 107
+EVENT_UNSUPPORTED_DEVICE 108
+EVENT_CANNOT_ENUMERATE 109
+EVENT_CLIENT_INIT_ERROR 110
+EVENT_OUT_OF_MEMORY 111
+EVENT_UNSPECIFIED_ERROR 112
+EVENT_DETACH 113
+EVENT_TRANSFER 114
+EVENT_SOF 115
+EVENT_RESUME 116
+EVENT_SUSPEND 117
+EVENT_RESET 118
+EVENT_DATA_ISOC_READ 119
+EVENT_DATA_ISOC_WRITE 120
+EVENT_OVERRIDE_CLIENT_DRIVER_SELECTION 121
+EVENT_1MS 122
+EVENT_GENERIC_BASE 400
+EVENT_MSD_BASE 500
+EVENT_HID_BASE 600
+EVENT_PRINTER_BASE 700
+EVENT_CDC_BASE 800
+EVENT_CHARGER_BASE 900
+EVENT_AUDIO_BASE 1000
+EVENT_USER_BASE 10000
+EVENT_BUS_ERROR 32767
+]
+"2017
+[e E302 . `uc
+EVENT_CONFIGURED 1
+EVENT_SET_DESCRIPTOR 2
+EVENT_EP0_REQUEST 3
+EVENT_ATTACH 4
+EVENT_TRANSFER_TERMINATED 5
+]
+"482 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[e E40 . `ui
+EVENT_NONE 0
+EVENT_DEVICE_STACK_BASE 1
+EVENT_HOST_STACK_BASE 100
+EVENT_HUB_ATTACH 101
+EVENT_STALL 102
+EVENT_VBUS_SES_REQUEST 103
+EVENT_VBUS_OVERCURRENT 104
+EVENT_VBUS_REQUEST_POWER 105
+EVENT_VBUS_RELEASE_POWER 106
+EVENT_VBUS_POWER_AVAILABLE 107
+EVENT_UNSUPPORTED_DEVICE 108
+EVENT_CANNOT_ENUMERATE 109
+EVENT_CLIENT_INIT_ERROR 110
+EVENT_OUT_OF_MEMORY 111
+EVENT_UNSPECIFIED_ERROR 112
+EVENT_DETACH 113
+EVENT_TRANSFER 114
+EVENT_SOF 115
+EVENT_RESUME 116
+EVENT_SUSPEND 117
+EVENT_RESET 118
+EVENT_DATA_ISOC_READ 119
+EVENT_DATA_ISOC_WRITE 120
+EVENT_OVERRIDE_CLIENT_DRIVER_SELECTION 121
+EVENT_1MS 122
+EVENT_GENERIC_BASE 400
+EVENT_MSD_BASE 500
+EVENT_HID_BASE 600
+EVENT_PRINTER_BASE 700
+EVENT_CDC_BASE 800
+EVENT_CHARGER_BASE 900
+EVENT_AUDIO_BASE 1000
+EVENT_USER_BASE 10000
+EVENT_BUS_ERROR 32767
+]
+"483
+[e E298 . `uc
+EVENT_CONFIGURED 1
+EVENT_SET_DESCRIPTOR 2
+EVENT_EP0_REQUEST 3
+EVENT_ATTACH 4
+EVENT_TRANSFER_TERMINATED 5
+]
+"78 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/comm.c
+[e E7601 . `uc
+DETACHED_STATE 0
+ATTACHED_STATE 1
+POWERED_STATE 2
+DEFAULT_STATE 4
+ADR_PENDING_STATE 8
+ADDRESS_STATE 16
+CONFIGURED_STATE 32
+]
+"20
+[v _comm_send_rply comm_send_rply `(v  1 e 0 0 ]
+"36
+[v _comm_send_dat comm_send_dat `(v  1 e 0 0 ]
+"67
+[v _ProcessCDC ProcessCDC `(v  1 e 0 0 ]
+"23 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/gamma.c
+[v _gamma_lookup gamma_lookup `(ui  1 e 2 0 ]
+"41 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _HighPriorityISRCode HighPriorityISRCode `II(v  1 e 0 0 ]
+"62
+[v _LowPriorityISRCode LowPriorityISRCode `IIL(v  1 e 0 0 ]
+"70
+[v _main main `(v  1 e 0 0 ]
+"84
+[v _InitializeSystem InitializeSystem `(v  1 e 0 0 ]
+"154
+[v _readDeviceID readDeviceID `(ui  1 e 2 0 ]
+"174
+[v _SwitchIsPressed SwitchIsPressed `(uc  1 e 1 0 ]
+"203
+[v _ProcessIO ProcessIO `(v  1 e 0 0 ]
+"248
+[v _BlinkUSBStatus BlinkUSBStatus `(v  1 e 0 0 ]
+"260
+[v _USER_USB_CALLBACK_EVENT_HANDLER USER_USB_CALLBACK_EVENT_HANDLER `(uc  1 e 1 0 ]
+"43 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v _tlc5947_setChannel tlc5947_setChannel `(v  1 e 0 0 ]
+"93
+[v _tlc5947_count_channels tlc5947_count_channels `(v  1 e 0 0 ]
+"120
+[v _tlc5947_pwm_readback tlc5947_pwm_readback `(v  1 e 0 0 ]
+"167
+[v _tlc5947_update tlc5947_update `(v  1 e 0 0 ]
+[v i2_tlc5947_update tlc5947_update `(v  1 e 0 0 ]
+"177
+[v _tlc5947_latch tlc5947_latch `(v  1 e 0 0 ]
+[v i2_tlc5947_latch tlc5947_latch `(v  1 e 0 0 ]
+"298 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBDeviceInit USBDeviceInit `(v  1 e 0 0 ]
+"489
+[v _USBDeviceTasks USBDeviceTasks `(v  1 e 0 0 ]
+"878
+[v _USBEnableEndpoint USBEnableEndpoint `(v  1 e 0 0 ]
+"995
+[v _USBTransferOnePacket USBTransferOnePacket `(*.39v  1 e 2 0 ]
+"1352
+[v _USBDeviceAttach USBDeviceAttach `(v  1 e 0 0 ]
+"1416
+[v _USBCtrlEPAllowStatusStage USBCtrlEPAllowStatusStage `(v  1 e 0 0 ]
+"1488
+[v _USBCtrlEPAllowDataStage USBCtrlEPAllowDataStage `(v  1 e 0 0 ]
+"1543
+[v _USBConfigureEndpoint USBConfigureEndpoint `(v  1 s 0 USBConfigureEndpoint ]
+"1616
+[v _USBCtrlEPServiceComplete USBCtrlEPServiceComplete `(v  1 s 0 USBCtrlEPServiceComplete ]
+"1771
+[v _USBCtrlTrfTxService USBCtrlTrfTxService `(v  1 s 0 USBCtrlTrfTxService ]
+"1852
+[v _USBCtrlTrfRxService USBCtrlTrfRxService `(v  1 s 0 USBCtrlTrfRxService ]
+"1968
+[v _USBStdSetCfgHandler USBStdSetCfgHandler `(v  1 s 0 USBStdSetCfgHandler ]
+"2043
+[v _USBStdGetDscHandler USBStdGetDscHandler `(v  1 s 0 USBStdGetDscHandler ]
+"2129
+[v _USBStdGetStatusHandler USBStdGetStatusHandler `(v  1 s 0 USBStdGetStatusHandler ]
+"2202
+[v _USBStallHandler USBStallHandler `(v  1 s 0 USBStallHandler ]
+"2245
+[v _USBSuspend USBSuspend `(v  1 s 0 USBSuspend ]
+"2302
+[v _USBWakeFromSuspend USBWakeFromSuspend `(v  1 s 0 USBWakeFromSuspend ]
+"2369
+[v _USBCtrlEPService USBCtrlEPService `(v  1 s 0 USBCtrlEPService ]
+"2469
+[v _USBCtrlTrfSetupHandler USBCtrlTrfSetupHandler `(v  1 s 0 USBCtrlTrfSetupHandler ]
+"2541
+[v _USBCtrlTrfOutHandler USBCtrlTrfOutHandler `(v  1 s 0 USBCtrlTrfOutHandler ]
+"2595
+[v _USBCtrlTrfInHandler USBCtrlTrfInHandler `(v  1 s 0 USBCtrlTrfInHandler ]
+"2689
+[v _USBCheckStdRequest USBCheckStdRequest `(v  1 s 0 USBCheckStdRequest ]
+"2757
+[v _USBStdFeatureReqHandler USBStdFeatureReqHandler `(v  1 s 0 USBStdFeatureReqHandler ]
+"204 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[v _USBCheckCDCRequest USBCheckCDCRequest `(v  1 e 0 0 ]
+"351
+[v _CDCInitEP CDCInitEP `(v  1 e 0 0 ]
+"542
+[v _getsUSBUSART getsUSBUSART `(uc  1 e 1 0 ]
+"613
+[v _putUSBUSART putUSBUSART `(v  1 e 0 0 ]
+"893
+[v _CDCTxService CDCTxService `(v  1 e 0 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"63 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\double.c
+[v ___flpack __flpack `(d  1 e 3 0 ]
+"88 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\fladd.c
+[v ___fladd __fladd `(d  1 e 3 0 ]
+"54 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\fldiv.c
+[v ___fldiv __fldiv `(d  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\flmul.c
+[v ___flmul __flmul `(d  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"20 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\flsub.c
+[v ___flsub __flsub `(d  1 e 3 0 ]
+"86 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"54 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 3 0 ]
+"62 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 3 0 ]
+"20 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 3 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\memset.c
+[v _memset memset `(*.39v  1 e 2 0 ]
+"15 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d100tcyx.c
+[v _Delay100TCYx Delay100TCYx `(v  1 e 0 0 ]
+[v i2_Delay100TCYx Delay100TCYx `(v  1 e 0 0 ]
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d10tcyx.c
+[v _Delay10TCYx Delay10TCYx `(v  1 e 0 0 ]
+[v i2_Delay10TCYx Delay10TCYx `(v  1 e 0 0 ]
+"26 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcbusy.c
+[v _BusyADC BusyADC `(uc  1 e 1 0 ]
+"22 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcconv.c
+[v _ConvertADC ConvertADC `(v  1 e 0 0 ]
+"24 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcread.c
+[v _ReadADC ReadADC `(i  1 e 2 0 ]
+"12 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\busy_eep.c
+[v _Busy_eep Busy_eep `(v  1 e 0 0 ]
+"23 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\read_B.c
+[v _Read_b_eep Read_b_eep `(uc  1 e 1 0 ]
+"30 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\write_B.c
+[v _Write_b_eep Write_b_eep `(v  1 e 0 0 ]
+"63 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1open.c
+[v _OpenSPI1 OpenSPI1 `(v  1 e 0 0 ]
+"12 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1read.c
+[v _ReadSPI1 ReadSPI1 `(uc  1 e 1 0 ]
+"13 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1writ.c
+[v _WriteSPI1 WriteSPI1 `(c  1 e 1 0 ]
+[v i2_WriteSPI1 WriteSPI1 `(c  1 e 1 0 ]
+"29 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\Timers\t3close.c
+[v _CloseTimer3 CloseTimer3 `(v  1 e 0 0 ]
+"94 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\Timers\t3open.c
+[v _OpenTimer3 OpenTimer3 `(v  1 e 0 0 ]
+[s S268 . 1 `uc 1 ANSA0 1 0 :1:0 
+`uc 1 ANSA1 1 0 :1:1 
+`uc 1 ANSA2 1 0 :1:2 
+`uc 1 ANSA3 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 ANSA5 1 0 :1:5 
+]
+"240 C:/Program Files (x86)/Microchip/xc8/v1.34/include\pic18f45k50.h
+[u S275 . 1 `S268 1 . 1 0 ]
+[v _ANSELAbits ANSELAbits `VES275  1 e 1 @3931 ]
+[s S253 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 ANSC2 1 0 :1:2 
+`uc 1 . 1 0 :3:3 
+`uc 1 ANSC6 1 0 :1:6 
+`uc 1 ANSC7 1 0 :1:7 
+]
+"332
+[u S259 . 1 `S253 1 . 1 0 ]
+[v _ANSELCbits ANSELCbits `VES259  1 e 1 @3933 ]
+"443
+[v _UCON UCON `VEuc  1 e 1 @3936 ]
+[s S964 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 SUSPND 1 0 :1:1 
+`uc 1 RESUME 1 0 :1:2 
+`uc 1 USBEN 1 0 :1:3 
+`uc 1 PKTDIS 1 0 :1:4 
+`uc 1 SE0 1 0 :1:5 
+`uc 1 PPBRST 1 0 :1:6 
+]
+"459
+[u S972 . 1 `S964 1 . 1 0 ]
+[v _UCONbits UCONbits `VES972  1 e 1 @3936 ]
+"493
+[v _USTAT USTAT `VEuc  1 e 1 @3937 ]
+"552
+[v _UCFG UCFG `VEuc  1 e 1 @3938 ]
+"633
+[v _UADDR UADDR `VEuc  1 e 1 @3939 ]
+"696
+[v _UIE UIE `VEuc  1 e 1 @3940 ]
+[s S1749 . 1 `uc 1 URSTIE 1 0 :1:0 
+`uc 1 UERRIE 1 0 :1:1 
+`uc 1 ACTVIE 1 0 :1:2 
+`uc 1 TRNIE 1 0 :1:3 
+`uc 1 IDLEIE 1 0 :1:4 
+`uc 1 STALLIE 1 0 :1:5 
+`uc 1 SOFIE 1 0 :1:6 
+]
+"712
+[u S1757 . 1 `S1749 1 . 1 0 ]
+[v _UIEbits UIEbits `VES1757  1 e 1 @3940 ]
+"751
+[v _UIR UIR `VEuc  1 e 1 @3941 ]
+[s S1730 . 1 `uc 1 URSTIF 1 0 :1:0 
+`uc 1 UERRIF 1 0 :1:1 
+`uc 1 ACTVIF 1 0 :1:2 
+`uc 1 TRNIF 1 0 :1:3 
+`uc 1 IDLEIF 1 0 :1:4 
+`uc 1 STALLIF 1 0 :1:5 
+`uc 1 SOFIF 1 0 :1:6 
+]
+"767
+[u S1738 . 1 `S1730 1 . 1 0 ]
+[v _UIRbits UIRbits `VES1738  1 e 1 @3941 ]
+"806
+[v _UEIE UEIE `VEuc  1 e 1 @3942 ]
+"856
+[v _UEIR UEIR `VEuc  1 e 1 @3943 ]
+"1028
+[v _UEP0 UEP0 `VEuc  1 e 1 @3946 ]
+[s S2047 . 1 `uc 1 EPSTALL 1 0 :1:0 
+`uc 1 EPINEN 1 0 :1:1 
+`uc 1 EPOUTEN 1 0 :1:2 
+`uc 1 EPCONDIS 1 0 :1:3 
+`uc 1 EPHSHK 1 0 :1:4 
+]
+"1080
+[s S2053 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 EP0CONDIS 1 0 :1:3 
+]
+[s S2056 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 EP0HSHK 1 0 :1:4 
+]
+[s S2059 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 EP0INEN 1 0 :1:1 
+]
+[s S2062 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 EP0OUTEN 1 0 :1:2 
+]
+[s S2065 . 1 `uc 1 EP0STALL 1 0 :1:0 
+]
+[s S2067 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 EPCONDIS0 1 0 :1:3 
+]
+[s S2070 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 EPHSHK0 1 0 :1:4 
+]
+[s S2073 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 EPINEN0 1 0 :1:1 
+]
+[s S2076 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 EPOUTEN0 1 0 :1:2 
+]
+[s S2079 . 1 `uc 1 EPSTALL0 1 0 :1:0 
+]
+[u S2081 . 1 `S2047 1 . 1 0 `S2053 1 . 1 0 `S2056 1 . 1 0 `S2059 1 . 1 0 `S2062 1 . 1 0 `S2065 1 . 1 0 `S2067 1 . 1 0 `S2070 1 . 1 0 `S2073 1 . 1 0 `S2076 1 . 1 0 `S2079 1 . 1 0 ]
+[v _UEP0bits UEP0bits `VES2081  1 e 1 @3946 ]
+"1159
+[v _UEP1 UEP1 `VEuc  1 e 1 @3947 ]
+[s S316 . 1 `uc 1 RA0 1 0 :1:0 
+`uc 1 RA1 1 0 :1:1 
+`uc 1 RA2 1 0 :1:2 
+`uc 1 RA3 1 0 :1:3 
+`uc 1 RA4 1 0 :1:4 
+`uc 1 RA5 1 0 :1:5 
+`uc 1 RA6 1 0 :1:6 
+`uc 1 RA7 1 0 :1:7 
+]
+"3194
+[s S887 . 1 `uc 1 AN0 1 0 :1:0 
+`uc 1 AN1 1 0 :1:1 
+`uc 1 AN2 1 0 :1:2 
+`uc 1 AN3 1 0 :1:3 
+`uc 1 T0CKI 1 0 :1:4 
+`uc 1 AN4 1 0 :1:5 
+`uc 1 OSC2 1 0 :1:6 
+]
+[s S895 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 VREFM 1 0 :1:2 
+`uc 1 VREFP 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 LVDIN 1 0 :1:5 
+]
+[s S901 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 HLVDIN 1 0 :1:5 
+]
+[s S904 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 RJPU 1 0 :1:7 
+]
+[s S907 . 1 `uc 1 ULPWUIN 1 0 :1:0 
+]
+[u S909 . 1 `S316 1 . 1 0 `S887 1 . 1 0 `S895 1 . 1 0 `S901 1 . 1 0 `S904 1 . 1 0 `S907 1 . 1 0 ]
+[v _PORTAbits PORTAbits `VES909  1 e 1 @3968 ]
+[s S356 . 1 `uc 1 RB0 1 0 :1:0 
+`uc 1 RB1 1 0 :1:1 
+`uc 1 RB2 1 0 :1:2 
+`uc 1 RB3 1 0 :1:3 
+`uc 1 RB4 1 0 :1:4 
+`uc 1 RB5 1 0 :1:5 
+`uc 1 RB6 1 0 :1:6 
+`uc 1 RB7 1 0 :1:7 
+]
+"3333
+[s S1276 . 1 `uc 1 INT0 1 0 :1:0 
+`uc 1 INT1 1 0 :1:1 
+`uc 1 INT2 1 0 :1:2 
+`uc 1 . 1 0 :2:3 
+`uc 1 PGM 1 0 :1:5 
+`uc 1 PGC 1 0 :1:6 
+`uc 1 PGD 1 0 :1:7 
+]
+[s S1284 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 CCP2_PA2 1 0 :1:3 
+]
+[u S1287 . 1 `S356 1 . 1 0 `S1276 1 . 1 0 `S1284 1 . 1 0 ]
+[v _PORTBbits PORTBbits `VES1287  1 e 1 @3969 ]
+[s S127 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 RC4 1 0 :1:4 
+`uc 1 RC5 1 0 :1:5 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+"3461
+[s S136 . 1 `uc 1 T1OSO 1 0 :1:0 
+`uc 1 T1OSI 1 0 :1:1 
+`uc 1 CCP1 1 0 :1:2 
+`uc 1 . 1 0 :3:3 
+`uc 1 TX 1 0 :1:6 
+`uc 1 RX 1 0 :1:7 
+]
+[s S143 . 1 `uc 1 T13CKI 1 0 :1:0 
+`uc 1 . 1 0 :1:1 
+`uc 1 P1A 1 0 :1:2 
+`uc 1 . 1 0 :3:3 
+`uc 1 CK 1 0 :1:6 
+`uc 1 DT 1 0 :1:7 
+]
+[s S150 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 CCP2 1 0 :1:1 
+]
+[s S153 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PA1 1 0 :1:2 
+]
+[s S156 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 PA2 1 0 :1:1 
+]
+[s S159 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 RC3 1 0 :1:3 
+]
+[u S162 . 1 `S127 1 . 1 0 `S136 1 . 1 0 `S143 1 . 1 0 `S150 1 . 1 0 `S153 1 . 1 0 `S156 1 . 1 0 `S159 1 . 1 0 ]
+[v _PORTCbits PORTCbits `VES162  1 e 1 @3970 ]
+[s S285 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 IOCB4 1 0 :1:4 
+`uc 1 IOCB5 1 0 :1:5 
+`uc 1 IOCB6 1 0 :1:6 
+`uc 1 IOCB7 1 0 :1:7 
+]
+"4004
+[u S291 . 1 `S285 1 . 1 0 ]
+[v _IOCBbits IOCBbits `VES291  1 e 1 @3974 ]
+[s S477 . 1 `uc 1 LATB0 1 0 :1:0 
+`uc 1 LATB1 1 0 :1:1 
+`uc 1 LATB2 1 0 :1:2 
+`uc 1 LATB3 1 0 :1:3 
+`uc 1 LATB4 1 0 :1:4 
+`uc 1 LATB5 1 0 :1:5 
+`uc 1 LATB6 1 0 :1:6 
+`uc 1 LATB7 1 0 :1:7 
+]
+"4339
+[s S486 . 1 `uc 1 LB0 1 0 :1:0 
+]
+[s S488 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 LB1 1 0 :1:1 
+]
+[s S491 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 LB2 1 0 :1:2 
+]
+[s S494 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 LB3 1 0 :1:3 
+]
+[s S497 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 LB4 1 0 :1:4 
+]
+[s S500 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 LB5 1 0 :1:5 
+]
+[s S503 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 LB6 1 0 :1:6 
+]
+[s S506 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 LB7 1 0 :1:7 
+]
+[u S509 . 1 `S477 1 . 1 0 `S486 1 . 1 0 `S488 1 . 1 0 `S491 1 . 1 0 `S494 1 . 1 0 `S497 1 . 1 0 `S500 1 . 1 0 `S503 1 . 1 0 `S506 1 . 1 0 ]
+[v _LATBbits LATBbits `VES509  1 e 1 @3978 ]
+"4423
+[v _LATC LATC `VEuc  1 e 1 @3979 ]
+[s S552 . 1 `uc 1 LATC0 1 0 :1:0 
+`uc 1 LATC1 1 0 :1:1 
+`uc 1 LATC2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 LATC4 1 0 :1:4 
+`uc 1 LATC5 1 0 :1:5 
+`uc 1 LATC6 1 0 :1:6 
+`uc 1 LATC7 1 0 :1:7 
+]
+"4471
+[s S561 . 1 `uc 1 LC0 1 0 :1:0 
+]
+[s S563 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 LC1 1 0 :1:1 
+]
+[s S566 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 LC2 1 0 :1:2 
+]
+[s S569 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 LC3 1 0 :1:3 
+]
+[s S572 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 LC4 1 0 :1:4 
+]
+[s S575 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 LC5 1 0 :1:5 
+]
+[s S578 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 LC6 1 0 :1:6 
+]
+[s S581 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 LC7 1 0 :1:7 
+]
+[u S584 . 1 `S552 1 . 1 0 `S561 1 . 1 0 `S563 1 . 1 0 `S566 1 . 1 0 `S569 1 . 1 0 `S572 1 . 1 0 `S575 1 . 1 0 `S578 1 . 1 0 `S581 1 . 1 0 ]
+[v _LATCbits LATCbits `VES584  1 e 1 @3979 ]
+"5141
+[v _DDRA DDRA `VEuc  1 e 1 @3986 ]
+[s S307 . 1 `uc 1 TRISA0 1 0 :1:0 
+`uc 1 TRISA1 1 0 :1:1 
+`uc 1 TRISA2 1 0 :1:2 
+`uc 1 TRISA3 1 0 :1:3 
+`uc 1 TRISA4 1 0 :1:4 
+`uc 1 TRISA5 1 0 :1:5 
+`uc 1 TRISA6 1 0 :1:6 
+`uc 1 TRISA7 1 0 :1:7 
+]
+"5273
+[u S325 . 1 `S307 1 . 1 0 `S316 1 . 1 0 ]
+[v _DDRAbits DDRAbits `VES325  1 e 1 @3986 ]
+"5362
+[v _DDRB DDRB `VEuc  1 e 1 @3987 ]
+[s S347 . 1 `uc 1 TRISB0 1 0 :1:0 
+`uc 1 TRISB1 1 0 :1:1 
+`uc 1 TRISB2 1 0 :1:2 
+`uc 1 TRISB3 1 0 :1:3 
+`uc 1 TRISB4 1 0 :1:4 
+`uc 1 TRISB5 1 0 :1:5 
+`uc 1 TRISB6 1 0 :1:6 
+`uc 1 TRISB7 1 0 :1:7 
+]
+"5389
+[u S365 . 1 `S347 1 . 1 0 `S356 1 . 1 0 ]
+[v _TRISBbits TRISBbits `VES365  1 e 1 @3987 ]
+"5494
+[v _DDRBbits DDRBbits `VES365  1 e 1 @3987 ]
+"5578
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"5583
+[v _DDRC DDRC `VEuc  1 e 1 @3988 ]
+[s S387 . 1 `uc 1 TRISC0 1 0 :1:0 
+`uc 1 TRISC1 1 0 :1:1 
+`uc 1 TRISC2 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 TRISC4 1 0 :1:4 
+`uc 1 TRISC5 1 0 :1:5 
+`uc 1 TRISC6 1 0 :1:6 
+`uc 1 TRISC7 1 0 :1:7 
+]
+"5612
+[s S396 . 1 `uc 1 RC0 1 0 :1:0 
+`uc 1 RC1 1 0 :1:1 
+`uc 1 RC2 1 0 :1:2 
+`uc 1 . 1 0 :3:3 
+`uc 1 RC6 1 0 :1:6 
+`uc 1 RC7 1 0 :1:7 
+]
+[s S403 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 TRISC3 1 0 :1:3 
+]
+[u S406 . 1 `S387 1 . 1 0 `S396 1 . 1 0 `S403 1 . 1 0 ]
+[v _TRISCbits TRISCbits `VES406  1 e 1 @3988 ]
+"5778
+[v _DDRD DDRD `VEuc  1 e 1 @3989 ]
+"5999
+[v _DDRE DDRE `VEuc  1 e 1 @3990 ]
+"6569
+[v _OSCTUNE OSCTUNE `VEuc  1 e 1 @3995 ]
+[s S717 . 1 `uc 1 TMR1IE 1 0 :1:0 
+`uc 1 TMR2IE 1 0 :1:1 
+`uc 1 CCP1IE 1 0 :1:2 
+`uc 1 SSPIE 1 0 :1:3 
+`uc 1 TXIE 1 0 :1:4 
+`uc 1 RCIE 1 0 :1:5 
+`uc 1 ADIE 1 0 :1:6 
+`uc 1 ACTIE 1 0 :1:7 
+]
+"6736
+[s S726 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SSP1IE 1 0 :1:3 
+`uc 1 TX1IE 1 0 :1:4 
+`uc 1 RC1IE 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 STIE 1 0 :1:7 
+]
+[s S733 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 PSPIE 1 0 :1:7 
+]
+[u S736 . 1 `S717 1 . 1 0 `S726 1 . 1 0 `S733 1 . 1 0 ]
+[v _PIE1bits PIE1bits `VES736  1 e 1 @3997 ]
+[s S80 . 1 `uc 1 TMR1IF 1 0 :1:0 
+`uc 1 TMR2IF 1 0 :1:1 
+`uc 1 CCP1IF 1 0 :1:2 
+`uc 1 SSPIF 1 0 :1:3 
+`uc 1 TXIF 1 0 :1:4 
+`uc 1 RCIF 1 0 :1:5 
+`uc 1 ADIF 1 0 :1:6 
+`uc 1 ACTIF 1 0 :1:7 
+]
+"6834
+[s S89 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SSP1IF 1 0 :1:3 
+`uc 1 TX1IF 1 0 :1:4 
+`uc 1 RC1IF 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 STIF 1 0 :1:7 
+]
+[s S96 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 PSPIF 1 0 :1:7 
+]
+[u S99 . 1 `S80 1 . 1 0 `S89 1 . 1 0 `S96 1 . 1 0 ]
+[v _PIR1bits PIR1bits `VES99  1 e 1 @3998 ]
+[s S760 . 1 `uc 1 TMR1IP 1 0 :1:0 
+`uc 1 TMR2IP 1 0 :1:1 
+`uc 1 CCP1IP 1 0 :1:2 
+`uc 1 SSPIP 1 0 :1:3 
+`uc 1 TXIP 1 0 :1:4 
+`uc 1 RCIP 1 0 :1:5 
+`uc 1 ADIP 1 0 :1:6 
+`uc 1 ACTIP 1 0 :1:7 
+]
+"6932
+[s S769 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SSP1IP 1 0 :1:3 
+`uc 1 TX1IP 1 0 :1:4 
+`uc 1 RC1IP 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+`uc 1 STIP 1 0 :1:7 
+]
+[s S776 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 PSPIP 1 0 :1:7 
+]
+[u S779 . 1 `S760 1 . 1 0 `S769 1 . 1 0 `S776 1 . 1 0 ]
+[v _IPR1bits IPR1bits `VES779  1 e 1 @3999 ]
+[s S24 . 1 `uc 1 CCP2IF 1 0 :1:0 
+`uc 1 TMR3IF 1 0 :1:1 
+`uc 1 HLVDIF 1 0 :1:2 
+`uc 1 BCLIF 1 0 :1:3 
+`uc 1 EEIF 1 0 :1:4 
+`uc 1 C2IF 1 0 :1:5 
+`uc 1 C1IF 1 0 :1:6 
+`uc 1 OSCFIF 1 0 :1:7 
+]
+"7128
+[s S33 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 LVDIF 1 0 :1:2 
+`uc 1 BCL1IF 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 CM2IF 1 0 :1:5 
+`uc 1 CM1IF 1 0 :1:6 
+]
+[s S40 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 CMIF 1 0 :1:6 
+]
+[u S43 . 1 `S24 1 . 1 0 `S33 1 . 1 0 `S40 1 . 1 0 ]
+[v _PIR2bits PIR2bits `VES43  1 e 1 @4001 ]
+[s S1658 . 1 `uc 1 TMR1GIE 1 0 :1:0 
+`uc 1 TMR3GIE 1 0 :1:1 
+`uc 1 USBIE 1 0 :1:2 
+`uc 1 CTMUIE 1 0 :1:3 
+]
+"7327
+[s S1663 . 1 `uc 1 RXB0IE 1 0 :1:0 
+]
+[s S1665 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RXB1IE 1 0 :1:1 
+]
+[s S1668 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RXBNIE 1 0 :1:1 
+]
+[s S1671 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 TXB0IE 1 0 :1:2 
+]
+[s S1674 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 TXB1IE 1 0 :1:3 
+]
+[u S1677 . 1 `S1658 1 . 1 0 `S1663 1 . 1 0 `S1665 1 . 1 0 `S1668 1 . 1 0 `S1671 1 . 1 0 `S1674 1 . 1 0 ]
+[v _PIE3bits PIE3bits `VES1677  1 e 1 @4003 ]
+[s S1772 . 1 `uc 1 TMR1GIF 1 0 :1:0 
+`uc 1 TMR3GIF 1 0 :1:1 
+`uc 1 USBIF 1 0 :1:2 
+`uc 1 CTMUIF 1 0 :1:3 
+]
+"7393
+[s S1777 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RXBNIF 1 0 :1:1 
+]
+[u S1780 . 1 `S1772 1 . 1 0 `S1777 1 . 1 0 ]
+[v _PIR3bits PIR3bits `VES1780  1 e 1 @4004 ]
+[s S1946 . 1 `uc 1 TMR1GIP 1 0 :1:0 
+`uc 1 TMR3GIP 1 0 :1:1 
+`uc 1 USBIP 1 0 :1:2 
+`uc 1 CTMUIP 1 0 :1:3 
+]
+"7439
+[s S1951 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 RXBNIP 1 0 :1:1 
+]
+[u S1954 . 1 `S1946 1 . 1 0 `S1951 1 . 1 0 ]
+[v _IPR3bits IPR3bits `VES1954  1 e 1 @4005 ]
+"8554
+[v _TMR3L TMR3L `VEuc  1 e 1 @4018 ]
+"8573
+[v _TMR3H TMR3H `VEuc  1 e 1 @4019 ]
+"8722
+[v _ACTCON ACTCON `VEuc  1 e 1 @4021 ]
+"9862
+[v _T2CON T2CON `VEuc  1 e 1 @4026 ]
+"9932
+[v _PR2 PR2 `VEuc  1 e 1 @4027 ]
+"10205
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @4032 ]
+"10275
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"10342
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+[s S807 . 1 `uc 1 NOT_BOR 1 0 :1:0 
+]
+"13002
+[s S809 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 NOT_POR 1 0 :1:1 
+]
+[s S812 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 NOT_PD 1 0 :1:2 
+]
+[s S815 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_TO 1 0 :1:3 
+]
+[s S818 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 NOT_RI 1 0 :1:4 
+]
+[s S821 . 1 `uc 1 nBOR 1 0 :1:0 
+`uc 1 nPOR 1 0 :1:1 
+`uc 1 nPD 1 0 :1:2 
+`uc 1 nTO 1 0 :1:3 
+`uc 1 nRI 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 SBOREN 1 0 :1:6 
+`uc 1 IPEN 1 0 :1:7 
+]
+[s S830 . 1 `uc 1 BOR 1 0 :1:0 
+`uc 1 POR 1 0 :1:1 
+`uc 1 PD 1 0 :1:2 
+`uc 1 TO 1 0 :1:3 
+`uc 1 RI 1 0 :1:4 
+]
+[u S836 . 1 `S807 1 . 1 0 `S809 1 . 1 0 `S812 1 . 1 0 `S815 1 . 1 0 `S818 1 . 1 0 `S821 1 . 1 0 `S830 1 . 1 0 ]
+[v _RCONbits RCONbits `VES836  1 e 1 @4048 ]
+"13118
+[v _OSCCON2 OSCCON2 `VEuc  1 e 1 @4050 ]
+[s S231 . 1 `uc 1 LFIOFS 1 0 :1:0 
+`uc 1 HFIOFR 1 0 :1:1 
+`uc 1 PRISD 1 0 :1:2 
+`uc 1 SOSCGO 1 0 :1:3 
+`uc 1 PLLEN 1 0 :1:4 
+`uc 1 INTSRC 1 0 :1:5 
+`uc 1 SOSCRUN 1 0 :1:6 
+`uc 1 PLLRDY 1 0 :1:7 
+]
+"13135
+[u S240 . 1 `S231 1 . 1 0 ]
+[v _OSCCON2bits OSCCON2bits `VES240  1 e 1 @4050 ]
+"13179
+[v _OSCCON OSCCON `VEuc  1 e 1 @4051 ]
+[s S648 . 1 `uc 1 IOCIF 1 0 :1:0 
+`uc 1 INT0IF 1 0 :1:1 
+`uc 1 TMR0IF 1 0 :1:2 
+`uc 1 IOCIE 1 0 :1:3 
+`uc 1 INT0IE 1 0 :1:4 
+`uc 1 TMR0IE 1 0 :1:5 
+`uc 1 PEIE_GIEL 1 0 :1:6 
+`uc 1 GIE_GIEH 1 0 :1:7 
+]
+"14064
+[s S657 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+[s S661 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 GIEL 1 0 :1:6 
+`uc 1 GIEH 1 0 :1:7 
+]
+[s S665 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 INT0F 1 0 :1:1 
+`uc 1 T0IF 1 0 :1:2 
+`uc 1 . 1 0 :1:3 
+`uc 1 INT0E 1 0 :1:4 
+`uc 1 T0IE 1 0 :1:5 
+`uc 1 PEIE 1 0 :1:6 
+`uc 1 GIE 1 0 :1:7 
+]
+[u S678 . 1 `S648 1 . 1 0 `S657 1 . 1 0 `S661 1 . 1 0 `S665 1 . 1 0 `S661 1 . 1 0 ]
+[v _INTCONbits INTCONbits `VES678  1 e 1 @4082 ]
+"14192
+[v _TABLAT TABLAT `VEuc  1 e 1 @4085 ]
+"14219
+[v _TBLPTRL TBLPTRL `VEuc  1 e 1 @4086 ]
+"14238
+[v _TBLPTRH TBLPTRH `VEuc  1 e 1 @4087 ]
+"14257
+[v _TBLPTRU TBLPTRU `VEuc  1 e 1 @4088 ]
+"15 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/comm.c
+[v _CDCBufferOut CDCBufferOut `[64]uc  1 e 64 0 ]
+"16
+[v _CDCBufferIn CDCBufferIn `[64]uc  1 e 64 0 ]
+"17
+[v _update_count update_count `ui  1 e 2 0 ]
+"18
+[v _txmiss_count txmiss_count `ui  1 e 2 0 ]
+"4 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/gamma.c
+[v _gamma_table gamma_table `[256]ui  1 e 512 0 ]
+"23 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _led_count led_count `ui  1 e 2 0 ]
+"24
+[v _old_sw2 old_sw2 `uc  1 e 1 0 ]
+"25
+[v _green_led_counter green_led_counter `uc  1 e 1 0 ]
+"26
+[v _pattern_number pattern_number `uc  1 e 1 0 ]
+"11 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v _tcl5947_testbyte0 tcl5947_testbyte0 `uc  1 e 1 0 ]
+"12
+[v _tcl5947_testbyte1 tcl5947_testbyte1 `uc  1 e 1 0 ]
+"13
+[v _test_pattern test_pattern `[21]uc  1 e 21 0 ]
+"23
+[v _tlc_memory tlc_memory `[72]uc  1 e 72 0 ]
+"34
+[v _tlc_nbytes tlc_nbytes `uc  1 e 1 0 ]
+"35
+[v _tlc_nchannels tlc_nchannels `uc  1 e 1 0 ]
+"36
+[v _tlc_request tlc_request `c  1 e 1 0 ]
+"38
+[v _tlc_pwm_readback_value tlc_pwm_readback_value `ui  1 e 2 0 ]
+"39
+[v _tmr3l_cal tmr3l_cal `uc  1 e 1 0 ]
+"40
+[v _tmr3h_cal tmr3h_cal `uc  1 e 1 0 ]
+"41
+[v _pwr_delay pwr_delay `uc  1 e 1 0 ]
+[s S2013 _USB_DEVICE_DESCRIPTOR 18 `uc 1 bLength 1 0 `uc 1 bDescriptorType 1 1 `ui 1 bcdUSB 2 2 `uc 1 bDeviceClass 1 4 `uc 1 bDeviceSubClass 1 5 `uc 1 bDeviceProtocol 1 6 `uc 1 bMaxPacketSize0 1 7 `ui 1 idVendor 2 8 `ui 1 idProduct 2 10 `ui 1 bcdDevice 2 12 `uc 1 iManufacturer 1 14 `uc 1 iProduct 1 15 `uc 1 iSerialNumber 1 16 `uc 1 bNumConfigurations 1 17 ]
+"166 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_descriptors.c
+[v _device_dsc device_dsc `CS2013  1 e 18 0 ]
+"185
+[v _configDescriptor1 configDescriptor1 `C[67]uc  1 e 67 0 ]
+[s S3293 . 4 `uc 1 bLength 1 0 `uc 1 bDscType 1 1 `[1]ui 1 string 2 2 ]
+"271
+[v _sd000 sd000 `CS3293  1 e 4 0 ]
+[s S3297 . 52 `uc 1 bLength 1 0 `uc 1 bDscType 1 1 `[25]ui 1 string 50 2 ]
+"275
+[v _sd001 sd001 `CS3297  1 e 52 0 ]
+"282
+[v _sd002 sd002 `CS3297  1 e 52 0 ]
+"289
+[v _USB_CD_Ptr USB_CD_Ptr `C[1]*.25Cuc  1 e 2 0 ]
+"294
+[v _USB_SD_Ptr USB_SD_Ptr `C[3]*.25Cuc  1 e 6 0 ]
+"136 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBDeviceState USBDeviceState `VEE7574  1 e 1 0 ]
+"137
+[v _USBActiveConfiguration USBActiveConfiguration `VEuc  1 e 1 0 ]
+"138
+[v _USBAlternateInterface USBAlternateInterface `VE[2]uc  1 e 2 0 ]
+[s S1447 . 1 `uc 1 BC8 1 0 :1:0 
+`uc 1 BC9 1 0 :1:1 
+`uc 1 BSTALL 1 0 :1:2 
+`uc 1 DTSEN 1 0 :1:3 
+`uc 1 INCDIS 1 0 :1:4 
+`uc 1 KEN 1 0 :1:5 
+`uc 1 DTS 1 0 :1:6 
+`uc 1 UOWN 1 0 :1:7 
+]
+"139
+[s S1456 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID0 1 0 :1:2 
+`uc 1 PID1 1 0 :1:3 
+`uc 1 PID2 1 0 :1:4 
+`uc 1 PID3 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+]
+[s S1463 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID 1 0 :4:2 
+`uc 1 . 1 0 :2:6 
+]
+[u S1467 _BD_STAT 1 `uc 1 Val 1 0 `S1447 1 . 1 0 `S1456 1 . 1 0 `S1463 1 . 1 0 ]
+[s S1472 . 4 `S1467 1 STAT 1 0 `uc 1 CNT 1 1 `uc 1 ADRL 1 2 `uc 1 ADRH 1 3 ]
+[s S1477 . 4 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`ui 1 ADR 2 2 ]
+[u S1481 __BDT 4 `S1472 1 . 4 0 `S1477 1 . 4 0 `ul 1 Val 4 0 `[4]uc 1 v 4 0 ]
+[v _pBDTEntryEP0OutCurrent pBDTEntryEP0OutCurrent `*.39VES1481  1 e 2 0 ]
+"140
+[v _pBDTEntryEP0OutNext pBDTEntryEP0OutNext `*.39VES1481  1 e 2 0 ]
+"141
+[v _pBDTEntryOut pBDTEntryOut `[3]*.39VES1481  1 e 6 0 ]
+"142
+[v _pBDTEntryIn pBDTEntryIn `[3]*.39VES1481  1 e 6 0 ]
+"143
+[v _shortPacketStatus shortPacketStatus `VEuc  1 e 1 0 ]
+"144
+[v _controlTransferState controlTransferState `VEuc  1 e 1 0 ]
+[u S1486 . 3 `*.2uc 1 bRam 3 0 `*.2Cuc 1 bRom 3 0 `*.2ui 1 wRam 3 0 `*.2Cui 1 wRom 3 0 ]
+"145
+[s S1491 . 1 `uc 1 ctrl_trf_mem 1 0 :1:0 
+`uc 1 reserved 1 0 :5:1 
+`uc 1 includeZero 1 0 :1:6 
+`uc 1 busy 1 0 :1:7 
+]
+[u S1496 . 1 `S1491 1 bits 1 0 `uc 1 Val 1 0 ]
+[s S1499 . 2 `uc 1 LB 1 0 `uc 1 HB 1 1 ]
+[u S1502 . 2 `ui 1 Val 2 0 `[2]uc 1 v 2 0 `S1499 1 byte 2 0 ]
+[s S1506 . 6 `S1486 1 pSrc 3 0 `S1496 1 info 1 3 `S1502 1 wCount 2 4 ]
+[v _inPipes inPipes `VE[1]S1506  1 e 6 0 ]
+[u S1510 . 3 `*.2uc 1 bRam 3 0 `*.2ui 1 wRam 3 0 ]
+"146
+[s S1513 . 1 `uc 1 reserved 1 0 :7:0 
+`uc 1 busy 1 0 :1:7 
+]
+[u S1516 . 1 `S1513 1 bits 1 0 `uc 1 Val 1 0 ]
+[s S1520 . 8 `S1510 1 pDst 3 0 `S1516 1 info 1 3 `S1502 1 wCount 2 4 `*.37(v 1 pFunc 2 6 ]
+[v _outPipes outPipes `VE[1]S1520  1 e 8 0 ]
+"147
+[v _pDst pDst `*.39VEuc  1 e 2 0 ]
+"148
+[v _RemoteWakeup RemoteWakeup `VEuc  1 e 1 0 ]
+"149
+[v _USBBusIsSuspended USBBusIsSuspended `VEuc  1 e 1 0 ]
+[s S1525 . 1 `uc 1 filler1 1 0 :1:0 
+`uc 1 ping_pong 1 0 :1:1 
+`uc 1 direction 1 0 :1:2 
+`uc 1 endpoint_number 1 0 :4:3 
+]
+"150
+[u S1530 __USTAT 1 `S1525 1 . 1 0 `uc 1 Val 1 0 ]
+[v _USTATcopy USTATcopy `VES1530  1 e 1 0 ]
+"151
+[v _endpoint_number endpoint_number `VEuc  1 e 1 0 ]
+"152
+[v _BothEP0OutUOWNsSet BothEP0OutUOWNsSet `VEuc  1 e 1 0 ]
+[s S1533 . 1 `uc 1 ping_pong_state 1 0 :1:0 
+`uc 1 transfer_terminated 1 0 :1:1 
+]
+"153
+[u S1536 . 1 `S1533 1 bits 1 0 `uc 1 Val 1 0 ]
+[v _ep_data_in ep_data_in `VE[3]S1536  1 e 3 0 ]
+"154
+[v _ep_data_out ep_data_out `VE[3]S1536  1 e 3 0 ]
+"155
+[v _USBStatusStageTimeoutCounter USBStatusStageTimeoutCounter `VEuc  1 e 1 0 ]
+"156
+[v _USBDeferStatusStagePacket USBDeferStatusStagePacket `VEuc  1 e 1 0 ]
+"157
+[v _USBStatusStageEnabledFlag1 USBStatusStageEnabledFlag1 `VEuc  1 e 1 0 ]
+"158
+[v _USBStatusStageEnabledFlag2 USBStatusStageEnabledFlag2 `VEuc  1 e 1 0 ]
+"159
+[v _USBDeferINDataStagePackets USBDeferINDataStagePackets `VEuc  1 e 1 0 ]
+"160
+[v _USBDeferOUTDataStagePackets USBDeferOUTDataStagePackets `VEuc  1 e 1 0 ]
+"167
+[v _BDT BDT `VE[12]S1481  1 e 48 @1024 ]
+[s S1539 . 8 `uc 1 bmRequestType 1 0 `uc 1 bRequest 1 1 `ui 1 wValue 2 2 `ui 1 wIndex 2 4 `ui 1 wLength 2 6 ]
+"172
+[s S1566 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`S1502 1 W_Value 2 2 `S1502 1 W_Index 2 4 `S1502 1 W_Length 2 6 ]
+[s S1572 . 8 `uc 1 Recipient 1 0 :5:0 
+`uc 1 RequestType 1 0 :2:5 
+`uc 1 DataDir 1 0 :1:7 
+`uc 1 . 1 1 :8:0 
+`uc 1 bFeature 1 2 `uc 1 . 1 3 :8:0 
+`uc 1 . 1 4 :8:0 
+`uc 1 . 1 5 :8:0 
+`uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1583 . 1 `uc 1 recipient 1 0 :5:0 
+`uc 1 type 1 0 :2:5 
+`uc 1 direction 1 0 :1:7 
+]
+[u S1587 . 1 `uc 1 bmRequestType 1 0 `S1583 1 . 1 0 ]
+[s S1590 . 1 `S1587 1 requestInfo 1 0 ]
+[s S1592 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 bDscIndex 1 2 `uc 1 bDescriptorType 1 3 `ui 1 wLangID 2 4 `uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1600 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 bDevADR 1 2 `uc 1 bDevADRH 1 3 `uc 1 . 1 4 :8:0 
+`uc 1 . 1 5 :8:0 
+`uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1609 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 bConfigurationValue 1 2 `uc 1 bCfgRSD 1 3 `uc 1 . 1 4 :8:0 
+`uc 1 . 1 5 :8:0 
+`uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1618 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 bAltID 1 2 `uc 1 bAltID_H 1 3 `uc 1 bIntfID 1 4 `uc 1 bIntfID_H 1 5 `uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1627 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 . 1 2 :8:0 
+`uc 1 . 1 3 :8:0 
+`uc 1 bEPID 1 4 `uc 1 bEPID_H 1 5 `uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[s S1636 . 8 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`uc 1 . 1 2 :8:0 
+`uc 1 . 1 3 :8:0 
+`uc 1 EPNum 1 4 :4:0 
+`uc 1 . 1 4 :3:4 
+`uc 1 EPDir 1 4 :1:7 
+`uc 1 . 1 5 :8:0 
+`uc 1 . 1 6 :8:0 
+`uc 1 . 1 7 :8:0 
+]
+[u S1647 . 8 `S1539 1 . 8 0 `S1566 1 . 8 0 `S1572 1 . 8 0 `S1590 1 . 1 0 `S1592 1 . 8 0 `S1600 1 . 8 0 `S1609 1 . 8 0 `S1618 1 . 8 0 `S1627 1 . 8 0 `S1636 1 . 8 0 ]
+[v _SetupPkt SetupPkt `VES1647  1 e 8 @1072 ]
+"173
+[v _CtrlTrfData CtrlTrfData `VE[8]uc  1 e 8 @1080 ]
+"122 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[v _cdc_data_tx cdc_data_tx `VE[64]uc  1 e 64 0 ]
+"123
+[v _cdc_data_rx cdc_data_rx `VE[64]uc  1 e 64 0 ]
+[s S2795 . 7 `[7]uc 1 _byte 7 0 ]
+"133
+[s S2797 . 7 `ul 1 dwDTERate 4 0 `uc 1 bCharFormat 1 4 `uc 1 bParityType 1 5 `uc 1 bDataBits 1 6 ]
+[u S2802 _LINE_CODING 7 `S2795 1 . 7 0 `S2797 1 . 7 0 ]
+[v _line_coding line_coding `S2802  1 e 7 0 ]
+"140
+[v _cdc_rx_len cdc_rx_len `uc  1 e 1 0 ]
+"141
+[v _cdc_trf_state cdc_trf_state `uc  1 e 1 0 ]
+[s S2809 . 2 `uc 1 bLow 1 0 `uc 1 bHigh 1 1 ]
+"142
+[u S2812 _POINTER 3 `S2809 1 . 2 0 `ui 1 _word 2 0 `*.2uc 1 bRam 3 0 `*.2ui 1 wRam 3 0 `*.2Cuc 1 bRom 3 0 `*.2Cui 1 wRom 3 0 ]
+[v _pCDCSrc pCDCSrc `S2812  1 e 3 0 ]
+"143
+[v _pCDCDst pCDCDst `S2812  1 e 3 0 ]
+"144
+[v _cdc_tx_len cdc_tx_len `uc  1 e 1 0 ]
+"145
+[v _cdc_mem_type cdc_mem_type `uc  1 e 1 0 ]
+"147
+[v _CDCDataOutHandle CDCDataOutHandle `*.39v  1 e 2 0 ]
+"148
+[v _CDCDataInHandle CDCDataInHandle `*.39v  1 e 2 0 ]
+[s S2819 . 1 `uc 1 DTE_PRESENT 1 0 :1:0 
+`uc 1 CARRIER_CONTROL 1 0 :1:1 
+]
+"151
+[u S2822 _CONTROL_SIGNAL_BITMAP 1 `uc 1 _byte 1 0 `S2819 1 . 1 0 ]
+[v _control_signal_bitmap control_signal_bitmap `S2822  1 e 1 0 ]
+"167
+[v _dummy_encapsulated_cmd_response dummy_encapsulated_cmd_response `[8]uc  1 e 8 0 ]
+"5168 C:\Program Files (x86)\Microchip\xc8\v1.34\include\pic18f45k50.h
+[v _TRISAbits TRISAbits `VES325  1 e 1 @3986 ]
+[s S4280 . 1 `uc 1 CCP2IE 1 0 :1:0 
+`uc 1 TMR3IE 1 0 :1:1 
+`uc 1 HLVDIE 1 0 :1:2 
+`uc 1 BCLIE 1 0 :1:3 
+`uc 1 EEIE 1 0 :1:4 
+`uc 1 C2IE 1 0 :1:5 
+`uc 1 C1IE 1 0 :1:6 
+`uc 1 OSCFIE 1 0 :1:7 
+]
+"7030
+[s S4289 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 LVDIE 1 0 :1:2 
+`uc 1 BCL1IE 1 0 :1:3 
+`uc 1 . 1 0 :1:4 
+`uc 1 CM2IE 1 0 :1:5 
+`uc 1 CM1IE 1 0 :1:6 
+]
+[s S4296 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 CMIE 1 0 :1:6 
+]
+[u S4299 . 1 `S4280 1 . 1 0 `S4289 1 . 1 0 `S4296 1 . 1 0 ]
+[v _PIE2bits PIE2bits `VES4299  1 e 1 @4000 ]
+[s S3589 . 1 `uc 1 RD 1 0 :1:0 
+`uc 1 WR 1 0 :1:1 
+`uc 1 WREN 1 0 :1:2 
+`uc 1 WRERR 1 0 :1:3 
+`uc 1 FREE 1 0 :1:4 
+`uc 1 . 1 0 :1:5 
+`uc 1 CFGS 1 0 :1:6 
+`uc 1 EEPGD 1 0 :1:7 
+]
+"7489
+[s S3598 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 EEFS 1 0 :1:6 
+]
+[u S3601 . 1 `S3589 1 . 1 0 `S3598 1 . 1 0 ]
+[v _EECON1bits EECON1bits `VES3601  1 e 1 @4006 ]
+"7533
+[v _EECON2 EECON2 `VEuc  1 e 1 @4007 ]
+"7552
+[v _EEDATA EEDATA `VEuc  1 e 1 @4008 ]
+"7558
+[v _EEADR EEADR `VEuc  1 e 1 @4009 ]
+"8418
+[v _T3CON T3CON `VEuc  1 e 1 @4017 ]
+[s S4216 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 NOT_T3SYNC 1 0 :1:2 
+]
+"8459
+[s S4219 . 1 `uc 1 TMR3ON 1 0 :1:0 
+`uc 1 RD16 1 0 :1:1 
+`uc 1 nT3SYNC 1 0 :1:2 
+`uc 1 SOSCEN 1 0 :1:3 
+`uc 1 T3CKPS 1 0 :2:4 
+`uc 1 TMR3CS 1 0 :2:6 
+]
+[s S4226 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 T3RD16 1 0 :1:1 
+`uc 1 T3SYNC 1 0 :1:2 
+`uc 1 T3SOSCEN 1 0 :1:3 
+`uc 1 T3CKPS0 1 0 :1:4 
+`uc 1 T3CKPS1 1 0 :1:5 
+`uc 1 TMR3CS0 1 0 :1:6 
+`uc 1 TMR3CS1 1 0 :1:7 
+]
+[s S4235 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 T3OSCEN 1 0 :1:3 
+]
+[s S4238 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 RD163 1 0 :1:7 
+]
+[s S4241 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SOSCEN3 1 0 :1:3 
+]
+[u S4244 . 1 `S4216 1 . 1 0 `S4219 1 . 1 0 `S4226 1 . 1 0 `S4235 1 . 1 0 `S4238 1 . 1 0 `S4241 1 . 1 0 ]
+[v _T3CONbits T3CONbits `VES4244  1 e 1 @4017 ]
+"8592
+[v _T3GCON T3GCON `VEuc  1 e 1 @4020 ]
+[s S4468 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 T3GGO_NOT_T3DONE 1 0 :1:3 
+]
+"8638
+[s S4471 . 1 `uc 1 T3GSS 1 0 :2:0 
+`uc 1 T3GVAL 1 0 :1:2 
+`uc 1 T3GGO_nT3DONE 1 0 :1:3 
+`uc 1 T3GSPM 1 0 :1:4 
+`uc 1 T3GTM 1 0 :1:5 
+`uc 1 T3GPOL 1 0 :1:6 
+`uc 1 TMR3GE 1 0 :1:7 
+]
+[s S4479 . 1 `uc 1 T3GSS0 1 0 :1:0 
+`uc 1 T3GSS1 1 0 :1:1 
+`uc 1 . 1 0 :1:2 
+`uc 1 T3GGO 1 0 :1:3 
+]
+[s S4484 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 NOT_T3DONE 1 0 :1:3 
+]
+[s S4487 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 nT3DONE 1 0 :1:3 
+]
+[s S4490 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 T3DONE 1 0 :1:3 
+]
+[s S4493 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 T3GGO_NOT_DONE 1 0 :1:3 
+]
+[s S4496 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 T3GGO_nDONE 1 0 :1:3 
+]
+[u S4499 . 1 `S4468 1 . 1 0 `S4471 1 . 1 0 `S4479 1 . 1 0 `S4484 1 . 1 0 `S4487 1 . 1 0 `S4490 1 . 1 0 `S4493 1 . 1 0 `S4496 1 . 1 0 ]
+[v _T3GCONbits T3GCONbits `VES4499  1 e 1 @4020 ]
+[s S3498 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO_NOT_DONE 1 0 :1:1 
+]
+"10378
+[s S3501 . 1 `uc 1 ADON 1 0 :1:0 
+`uc 1 GO_nDONE 1 0 :1:1 
+`uc 1 CHS 1 0 :5:2 
+]
+[s S3505 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 DONE 1 0 :1:1 
+]
+[s S3508 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GO 1 0 :1:1 
+]
+[s S3511 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 NOT_DONE 1 0 :1:1 
+]
+[s S3514 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 nDONE 1 0 :1:1 
+]
+[s S3517 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 GODONE 1 0 :1:1 
+]
+[u S3520 . 1 `S3498 1 . 1 0 `S3501 1 . 1 0 `S3505 1 . 1 0 `S3508 1 . 1 0 `S3511 1 . 1 0 `S3514 1 . 1 0 `S3517 1 . 1 0 ]
+[v _ADCON0bits ADCON0bits `VES3520  1 e 1 @4034 ]
+"10427
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"10433
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"10882
+[v _SSP1CON1 SSP1CON1 `VEuc  1 e 1 @4038 ]
+[s S3941 . 1 `uc 1 SSPM 1 0 :4:0 
+`uc 1 CKP 1 0 :1:4 
+`uc 1 SSPEN 1 0 :1:5 
+`uc 1 SSPOV 1 0 :1:6 
+`uc 1 WCOL 1 0 :1:7 
+]
+"10942
+[s S3947 . 1 `uc 1 SSPM0 1 0 :1:0 
+`uc 1 SSPM1 1 0 :1:1 
+`uc 1 SSPM2 1 0 :1:2 
+`uc 1 SSPM3 1 0 :1:3 
+]
+[s S3952 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 CKP1 1 0 :1:4 
+]
+[s S3955 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 SSPEN1 1 0 :1:5 
+]
+[s S3958 . 1 `uc 1 SSPM01 1 0 :1:0 
+]
+[s S3960 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 SSPM11 1 0 :1:1 
+]
+[s S3963 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 SSPM21 1 0 :1:2 
+]
+[s S3966 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 SSPM31 1 0 :1:3 
+]
+[s S3969 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 SSPOV1 1 0 :1:6 
+]
+[s S3972 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 WCOL1 1 0 :1:7 
+]
+[u S3975 . 1 `S3941 1 . 1 0 `S3947 1 . 1 0 `S3952 1 . 1 0 `S3955 1 . 1 0 `S3958 1 . 1 0 `S3960 1 . 1 0 `S3963 1 . 1 0 `S3966 1 . 1 0 `S3969 1 . 1 0 `S3972 1 . 1 0 ]
+[v _SSP1CON1bits SSP1CON1bits `VES3975  1 e 1 @4038 ]
+"11298
+[v _SSP1STAT SSP1STAT `VEuc  1 e 1 @4039 ]
+[s S3712 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R_NOT_W 1 0 :1:2 
+]
+"11439
+[s S3715 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 D_NOT_A 1 0 :1:5 
+]
+[s S3718 . 1 `uc 1 BF 1 0 :1:0 
+`uc 1 UA 1 0 :1:1 
+`uc 1 R_nW 1 0 :1:2 
+`uc 1 S 1 0 :1:3 
+`uc 1 P 1 0 :1:4 
+`uc 1 D_nA 1 0 :1:5 
+`uc 1 CKE 1 0 :1:6 
+`uc 1 SMP 1 0 :1:7 
+]
+[s S3727 . 1 `uc 1 BF1 1 0 :1:0 
+]
+[s S3729 . 1 `uc 1 . 1 0 :6:0 
+`uc 1 CKE1 1 0 :1:6 
+]
+[s S3732 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 D 1 0 :1:5 
+]
+[s S3735 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 DA 1 0 :1:5 
+]
+[s S3738 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 DA1 1 0 :1:5 
+]
+[s S3741 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 DATA_ADDRESS 1 0 :1:5 
+]
+[s S3744 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 D_A 1 0 :1:5 
+]
+[s S3747 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 I2C_DAT 1 0 :1:5 
+]
+[s S3750 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 I2C_READ 1 0 :1:2 
+]
+[s S3753 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 I2C_START 1 0 :1:3 
+]
+[s S3756 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 I2C_STOP 1 0 :1:4 
+]
+[s S3759 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R 1 0 :1:2 
+]
+[s S3762 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 READ_WRITE 1 0 :1:2 
+]
+[s S3765 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 RW 1 0 :1:2 
+]
+[s S3768 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 RW1 1 0 :1:2 
+]
+[s S3771 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 R_W 1 0 :1:2 
+]
+[s S3774 . 1 `uc 1 . 1 0 :7:0 
+`uc 1 SMP1 1 0 :1:7 
+]
+[s S3777 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 START 1 0 :1:3 
+]
+[s S3780 . 1 `uc 1 . 1 0 :3:0 
+`uc 1 START1 1 0 :1:3 
+]
+[s S3783 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 STOP 1 0 :1:4 
+]
+[s S3786 . 1 `uc 1 . 1 0 :4:0 
+`uc 1 STOP1 1 0 :1:4 
+]
+[s S3789 . 1 `uc 1 . 1 0 :1:0 
+`uc 1 UA1 1 0 :1:1 
+]
+[s S3792 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 nA 1 0 :1:5 
+]
+[s S3795 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 nADDRESS 1 0 :1:5 
+]
+[s S3798 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nW 1 0 :1:2 
+]
+[s S3801 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 nWRITE 1 0 :1:2 
+]
+[s S3804 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 NOT_W 1 0 :1:2 
+]
+[s S3807 . 1 `uc 1 . 1 0 :5:0 
+`uc 1 NOT_A 1 0 :1:5 
+]
+[u S3810 . 1 `S3712 1 . 1 0 `S3715 1 . 1 0 `S3718 1 . 1 0 `S3727 1 . 1 0 `S3729 1 . 1 0 `S3732 1 . 1 0 `S3735 1 . 1 0 `S3738 1 . 1 0 `S3741 1 . 1 0 `S3744 1 . 1 0 `S3747 1 . 1 0 `S3750 1 . 1 0 `S3753 1 . 1 0 `S3756 1 . 1 0 `S3759 1 . 1 0 `S3762 1 . 1 0 `S3765 1 . 1 0 `S3768 1 . 1 0 `S3771 1 . 1 0 `S3774 1 . 1 0 `S3777 1 . 1 0 `S3780 1 . 1 0 `S3783 1 . 1 0 `S3786 1 . 1 0 `S3789 1 . 1 0 `S3792 1 . 1 0 `S3795 1 . 1 0 `S3798 1 . 1 0 `S3801 1 . 1 0 `S3804 1 . 1 0 `S3807 1 . 1 0 ]
+[v _SSP1STATbits SSP1STATbits `VES3810  1 e 1 @4039 ]
+"12378
+[v _SSP1BUF SSP1BUF `VEuc  1 e 1 @4041 ]
+"70 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _main main `(v  1 e 0 0 ]
+{
+"81
+} 0
+"1352 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBDeviceAttach USBDeviceAttach `(v  1 e 0 0 ]
+{
+"1382
+} 0
+"203 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _ProcessIO ProcessIO `(v  1 e 0 0 ]
+{
+"205
+[v ProcessIO@x x `uc  1 a 1 45 ]
+"246
+} 0
+"174
+[v _SwitchIsPressed SwitchIsPressed `(uc  1 e 1 0 ]
+{
+"183
+} 0
+"67 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/comm.c
+[v _ProcessCDC ProcessCDC `(v  1 e 0 0 ]
+{
+"71
+[v ProcessCDC@_y _y `ui  1 a 2 40 ]
+"69
+[v ProcessCDC@len len `uc  1 a 1 44 ]
+"70
+[v ProcessCDC@_x _x `uc  1 a 1 43 ]
+"69
+[v ProcessCDC@numBytes numBytes `uc  1 a 1 42 ]
+"75
+[v ProcessCDC@boot_request1 boot_request1 `uc  1 a 1 39 ]
+"74
+[v ProcessCDC@boot_request0 boot_request0 `uc  1 a 1 38 ]
+"69
+[v ProcessCDC@cmd cmd `uc  1 a 1 37 ]
+"73
+[v ProcessCDC@checksum checksum `uc  1 a 1 36 ]
+"70
+[v ProcessCDC@_c _c `uc  1 a 1 35 ]
+"69
+[v ProcessCDC@csum csum `uc  1 a 1 34 ]
+"248
+} 0
+"542 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[v _getsUSBUSART getsUSBUSART `(uc  1 e 1 0 ]
+{
+[v getsUSBUSART@buffer buffer `*.39uc  1 p 2 7 ]
+[v getsUSBUSART@len len `uc  1 p 1 9 ]
+"571
+} 0
+"20 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/comm.c
+[v _comm_send_rply comm_send_rply `(v  1 e 0 0 ]
+{
+[v comm_send_rply@cc cc `uc  1 a 1 wreg ]
+[v comm_send_rply@cc cc `uc  1 a 1 wreg ]
+"22
+[v comm_send_rply@cc cc `uc  1 a 1 12 ]
+"34
+} 0
+"36
+[v _comm_send_dat comm_send_dat `(v  1 e 0 0 ]
+{
+[v comm_send_dat@len len `uc  1 a 1 wreg ]
+"38
+[v comm_send_dat@i i `uc  1 a 1 12 ]
+"36
+[v comm_send_dat@len len `uc  1 a 1 wreg ]
+"39
+[v comm_send_dat@len len `uc  1 a 1 13 ]
+"63
+} 0
+"613 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[v _putUSBUSART putUSBUSART `(v  1 e 0 0 ]
+{
+[v putUSBUSART@data data `*.39uc  1 p 2 0 ]
+[v putUSBUSART@length length `uc  1 p 1 2 ]
+"644
+} 0
+"893
+[v _CDCTxService CDCTxService `(v  1 e 0 0 ]
+{
+"895
+[v CDCTxService@byte_to_send byte_to_send `uc  1 a 1 11 ]
+"896
+[v CDCTxService@i i `uc  1 a 1 10 ]
+"989
+} 0
+"30 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\write_B.c
+[v _Write_b_eep Write_b_eep `(v  1 e 0 0 ]
+{
+"32
+[v Write_b_eep@GIE_BIT_VAL GIE_BIT_VAL `uc  1 a 1 3 ]
+"30
+[v Write_b_eep@badd badd `ui  1 p 2 0 ]
+[v Write_b_eep@bdat bdat `uc  1 p 1 2 ]
+"46
+} 0
+"489 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBDeviceTasks USBDeviceTasks `(v  1 e 0 0 ]
+{
+"491
+[v USBDeviceTasks@i i `uc  1 a 1 29 ]
+"827
+} 0
+"2302
+[v _USBWakeFromSuspend USBWakeFromSuspend `(v  1 s 0 USBWakeFromSuspend ]
+{
+"2346
+} 0
+"2245
+[v _USBSuspend USBSuspend `(v  1 s 0 USBSuspend ]
+{
+"2285
+} 0
+"2202
+[v _USBStallHandler USBStallHandler `(v  1 s 0 USBStallHandler ]
+{
+"2227
+} 0
+"2369
+[v _USBCtrlEPService USBCtrlEPService `(v  1 s 0 USBCtrlEPService ]
+{
+"2398
+[v USBCtrlEPService@setup_cnt setup_cnt `uc  1 a 1 28 ]
+"2427
+} 0
+"2469
+[v _USBCtrlTrfSetupHandler USBCtrlTrfSetupHandler `(v  1 s 0 USBCtrlTrfSetupHandler ]
+{
+"2518
+} 0
+"1616
+[v _USBCtrlEPServiceComplete USBCtrlEPServiceComplete `(v  1 s 0 USBCtrlEPServiceComplete ]
+{
+"1748
+} 0
+"1488
+[v _USBCtrlEPAllowDataStage USBCtrlEPAllowDataStage `(v  1 e 0 0 ]
+{
+"1518
+} 0
+"2689
+[v _USBCheckStdRequest USBCheckStdRequest `(v  1 s 0 USBCheckStdRequest ]
+{
+"2736
+} 0
+"1968
+[v _USBStdSetCfgHandler USBStdSetCfgHandler `(v  1 s 0 USBStdSetCfgHandler ]
+{
+"1970
+[v USBStdSetCfgHandler@i i `uc  1 a 1 20 ]
+"2024
+} 0
+"2129
+[v _USBStdGetStatusHandler USBStdGetStatusHandler `(v  1 s 0 USBStdGetStatusHandler ]
+{
+[s S1447 . 1 `uc 1 BC8 1 0 :1:0 
+`uc 1 BC9 1 0 :1:1 
+`uc 1 BSTALL 1 0 :1:2 
+`uc 1 DTSEN 1 0 :1:3 
+`uc 1 INCDIS 1 0 :1:4 
+`uc 1 KEN 1 0 :1:5 
+`uc 1 DTS 1 0 :1:6 
+`uc 1 UOWN 1 0 :1:7 
+]
+"2161
+[s S1456 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID0 1 0 :1:2 
+`uc 1 PID1 1 0 :1:3 
+`uc 1 PID2 1 0 :1:4 
+`uc 1 PID3 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+]
+[s S1463 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID 1 0 :4:2 
+`uc 1 . 1 0 :2:6 
+]
+[u S1467 _BD_STAT 1 `uc 1 Val 1 0 `S1447 1 . 1 0 `S1456 1 . 1 0 `S1463 1 . 1 0 ]
+[s S1472 . 4 `S1467 1 STAT 1 0 `uc 1 CNT 1 1 `uc 1 ADRL 1 2 `uc 1 ADRH 1 3 ]
+[s S1477 . 4 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`ui 1 ADR 2 2 ]
+[u S1481 __BDT 4 `S1472 1 . 4 0 `S1477 1 . 4 0 `ul 1 Val 4 0 `[4]uc 1 v 4 0 ]
+[v USBStdGetStatusHandler@p p `*.39S1481  1 a 2 1 ]
+"2184
+} 0
+"2043
+[v _USBStdGetDscHandler USBStdGetDscHandler `(v  1 s 0 USBStdGetDscHandler ]
+{
+"2112
+} 0
+"2757
+[v _USBStdFeatureReqHandler USBStdFeatureReqHandler `(v  1 s 0 USBStdFeatureReqHandler ]
+{
+[s S1447 . 1 `uc 1 BC8 1 0 :1:0 
+`uc 1 BC9 1 0 :1:1 
+`uc 1 BSTALL 1 0 :1:2 
+`uc 1 DTSEN 1 0 :1:3 
+`uc 1 INCDIS 1 0 :1:4 
+`uc 1 KEN 1 0 :1:5 
+`uc 1 DTS 1 0 :1:6 
+`uc 1 UOWN 1 0 :1:7 
+]
+"2759
+[s S1456 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID0 1 0 :1:2 
+`uc 1 PID1 1 0 :1:3 
+`uc 1 PID2 1 0 :1:4 
+`uc 1 PID3 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+]
+[s S1463 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID 1 0 :4:2 
+`uc 1 . 1 0 :2:6 
+]
+[u S1467 _BD_STAT 1 `uc 1 Val 1 0 `S1447 1 . 1 0 `S1456 1 . 1 0 `S1463 1 . 1 0 ]
+[s S1472 . 4 `S1467 1 STAT 1 0 `uc 1 CNT 1 1 `uc 1 ADRL 1 2 `uc 1 ADRH 1 3 ]
+[s S1477 . 4 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`ui 1 ADR 2 2 ]
+[u S1481 __BDT 4 `S1472 1 . 4 0 `S1477 1 . 4 0 `ul 1 Val 4 0 `[4]uc 1 v 4 0 ]
+[v USBStdFeatureReqHandler@p p `*.39S1481  1 a 2 24 ]
+"2764
+[v USBStdFeatureReqHandler@pUEP pUEP `*.39uc  1 a 2 21 ]
+[s S1533 . 1 `uc 1 ping_pong_state 1 0 :1:0 
+`uc 1 transfer_terminated 1 0 :1:1 
+]
+"2760
+[u S1536 . 1 `S1533 1 bits 1 0 `uc 1 Val 1 0 ]
+[v USBStdFeatureReqHandler@current_ep_data current_ep_data `S1536  1 a 1 23 ]
+"2983
+} 0
+"260 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _USER_USB_CALLBACK_EVENT_HANDLER USER_USB_CALLBACK_EVENT_HANDLER `(uc  1 e 1 0 ]
+{
+[v USER_USB_CALLBACK_EVENT_HANDLER@event event `E7517  1 p 2 12 ]
+[v USER_USB_CALLBACK_EVENT_HANDLER@pdata pdata `*.39v  1 p 2 14 ]
+[v USER_USB_CALLBACK_EVENT_HANDLER@size size `ui  1 p 2 16 ]
+"305
+} 0
+"204 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device_cdc.c
+[v _USBCheckCDCRequest USBCheckCDCRequest `(v  1 e 0 0 ]
+{
+"317
+} 0
+"351
+[v _CDCInitEP CDCInitEP `(v  1 e 0 0 ]
+{
+"404
+} 0
+"995 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBTransferOnePacket USBTransferOnePacket `(*.39v  1 e 2 0 ]
+{
+[v USBTransferOnePacket@ep ep `uc  1 a 1 wreg ]
+[s S1447 . 1 `uc 1 BC8 1 0 :1:0 
+`uc 1 BC9 1 0 :1:1 
+`uc 1 BSTALL 1 0 :1:2 
+`uc 1 DTSEN 1 0 :1:3 
+`uc 1 INCDIS 1 0 :1:4 
+`uc 1 KEN 1 0 :1:5 
+`uc 1 DTS 1 0 :1:6 
+`uc 1 UOWN 1 0 :1:7 
+]
+"997
+[s S1456 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID0 1 0 :1:2 
+`uc 1 PID1 1 0 :1:3 
+`uc 1 PID2 1 0 :1:4 
+`uc 1 PID3 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+]
+[s S1463 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID 1 0 :4:2 
+`uc 1 . 1 0 :2:6 
+]
+[u S1467 _BD_STAT 1 `uc 1 Val 1 0 `S1447 1 . 1 0 `S1456 1 . 1 0 `S1463 1 . 1 0 ]
+[s S1472 . 4 `S1467 1 STAT 1 0 `uc 1 CNT 1 1 `uc 1 ADRL 1 2 `uc 1 ADRH 1 3 ]
+[s S1477 . 4 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`ui 1 ADR 2 2 ]
+[u S1481 __BDT 4 `S1472 1 . 4 0 `S1477 1 . 4 0 `ul 1 Val 4 0 `[4]uc 1 v 4 0 ]
+[v USBTransferOnePacket@handle handle `*.39VES1481  1 a 2 5 ]
+"995
+[v USBTransferOnePacket@ep ep `uc  1 a 1 wreg ]
+[v USBTransferOnePacket@dir dir `uc  1 p 1 0 ]
+[v USBTransferOnePacket@data data `*.39uc  1 p 2 1 ]
+[v USBTransferOnePacket@len len `uc  1 p 1 3 ]
+"1000
+[v USBTransferOnePacket@ep ep `uc  1 a 1 4 ]
+"1047
+} 0
+"878
+[v _USBEnableEndpoint USBEnableEndpoint `(v  1 e 0 0 ]
+{
+[v USBEnableEndpoint@ep ep `uc  1 a 1 wreg ]
+"880
+[v USBEnableEndpoint@p p `*.39uc  1 a 2 9 ]
+"878
+[v USBEnableEndpoint@ep ep `uc  1 a 1 wreg ]
+[v USBEnableEndpoint@options options `uc  1 p 1 8 ]
+"884
+[v USBEnableEndpoint@ep ep `uc  1 a 1 11 ]
+"902
+} 0
+"1543
+[v _USBConfigureEndpoint USBConfigureEndpoint `(v  1 s 0 USBConfigureEndpoint ]
+{
+[v USBConfigureEndpoint@EPNum EPNum `uc  1 a 1 wreg ]
+[s S1447 . 1 `uc 1 BC8 1 0 :1:0 
+`uc 1 BC9 1 0 :1:1 
+`uc 1 BSTALL 1 0 :1:2 
+`uc 1 DTSEN 1 0 :1:3 
+`uc 1 INCDIS 1 0 :1:4 
+`uc 1 KEN 1 0 :1:5 
+`uc 1 DTS 1 0 :1:6 
+`uc 1 UOWN 1 0 :1:7 
+]
+"1545
+[s S1456 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID0 1 0 :1:2 
+`uc 1 PID1 1 0 :1:3 
+`uc 1 PID2 1 0 :1:4 
+`uc 1 PID3 1 0 :1:5 
+`uc 1 . 1 0 :1:6 
+]
+[s S1463 . 1 `uc 1 . 1 0 :2:0 
+`uc 1 PID 1 0 :4:2 
+`uc 1 . 1 0 :2:6 
+]
+[u S1467 _BD_STAT 1 `uc 1 Val 1 0 `S1447 1 . 1 0 `S1456 1 . 1 0 `S1463 1 . 1 0 ]
+[s S1472 . 4 `S1467 1 STAT 1 0 `uc 1 CNT 1 1 `uc 1 ADRL 1 2 `uc 1 ADRH 1 3 ]
+[s S1477 . 4 `uc 1 . 1 0 :8:0 
+`uc 1 . 1 1 :8:0 
+`ui 1 ADR 2 2 ]
+[u S1481 __BDT 4 `S1472 1 . 4 0 `S1477 1 . 4 0 `ul 1 Val 4 0 `[4]uc 1 v 4 0 ]
+[v USBConfigureEndpoint@handle handle `*.39VES1481  1 a 2 6 ]
+"1543
+[v USBConfigureEndpoint@EPNum EPNum `uc  1 a 1 wreg ]
+[v USBConfigureEndpoint@direction direction `uc  1 p 1 0 ]
+"1549
+[v USBConfigureEndpoint@EPNum EPNum `uc  1 a 1 5 ]
+"1585
+} 0
+"2541
+[v _USBCtrlTrfOutHandler USBCtrlTrfOutHandler `(v  1 s 0 USBCtrlTrfOutHandler ]
+{
+"2570
+} 0
+"1852
+[v _USBCtrlTrfRxService USBCtrlTrfRxService `(v  1 s 0 USBCtrlTrfRxService ]
+{
+"1854
+[v USBCtrlTrfRxService@byteToRead byteToRead `uc  1 a 1 1 ]
+"1855
+[v USBCtrlTrfRxService@i i `uc  1 a 1 0 ]
+"1947
+} 0
+"1416
+[v _USBCtrlEPAllowStatusStage USBCtrlEPAllowStatusStage `(v  1 e 0 0 ]
+{
+"1459
+} 0
+"2595
+[v _USBCtrlTrfInHandler USBCtrlTrfInHandler `(v  1 s 0 USBCtrlTrfInHandler ]
+{
+"2597
+[v USBCtrlTrfInHandler@lastDTS lastDTS `uc  1 a 1 1 ]
+"2670
+} 0
+"1771
+[v _USBCtrlTrfTxService USBCtrlTrfTxService `(v  1 s 0 USBCtrlTrfTxService ]
+{
+"1773
+[v USBCtrlTrfTxService@byteToSend byteToSend `uc  1 a 1 0 ]
+"1825
+} 0
+"23 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\read_B.c
+[v _Read_b_eep Read_b_eep `(uc  1 e 1 0 ]
+{
+[v Read_b_eep@badd badd `ui  1 p 2 0 ]
+"32
+} 0
+"24 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcread.c
+[v _ReadADC ReadADC `(i  1 e 2 0 ]
+{
+"27
+} 0
+"22 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcconv.c
+[v _ConvertADC ConvertADC `(v  1 e 0 0 ]
+{
+"25
+} 0
+"12 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\EEP\busy_eep.c
+[v _Busy_eep Busy_eep `(v  1 e 0 0 ]
+{
+"15
+} 0
+"26 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\ADC\adcbusy.c
+[v _BusyADC BusyADC `(uc  1 e 1 0 ]
+{
+"29
+} 0
+"248 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _BlinkUSBStatus BlinkUSBStatus `(v  1 e 0 0 ]
+{
+"258
+} 0
+"84
+[v _InitializeSystem InitializeSystem `(v  1 e 0 0 ]
+{
+"152
+} 0
+"120 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v _tlc5947_pwm_readback tlc5947_pwm_readback `(v  1 e 0 0 ]
+{
+"122
+[v tlc5947_pwm_readback@i i `uc  1 a 1 22 ]
+"165
+} 0
+"43
+[v _tlc5947_setChannel tlc5947_setChannel `(v  1 e 0 0 ]
+{
+[v tlc5947_setChannel@ch ch `uc  1 a 1 wreg ]
+"46
+[v tlc5947_setChannel@col col `ui  1 a 2 13 ]
+"45
+[v tlc5947_setChannel@pos pos `uc  1 a 1 15 ]
+"43
+[v tlc5947_setChannel@ch ch `uc  1 a 1 wreg ]
+[v tlc5947_setChannel@val val `uc  1 p 1 8 ]
+"45
+[v tlc5947_setChannel@ch ch `uc  1 a 1 12 ]
+"91
+} 0
+"23 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/gamma.c
+[v _gamma_lookup gamma_lookup `(ui  1 e 2 0 ]
+{
+[v gamma_lookup@c c `uc  1 a 1 wreg ]
+[v gamma_lookup@c c `uc  1 a 1 wreg ]
+"25
+[v gamma_lookup@c c `uc  1 a 1 2 ]
+"26
+} 0
+"177 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v _tlc5947_latch tlc5947_latch `(v  1 e 0 0 ]
+{
+"191
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d10tcyx.c
+[v _Delay10TCYx Delay10TCYx `(v  1 e 0 0 ]
+{
+[v Delay10TCYx@unit unit `uc  1 a 1 wreg ]
+[v Delay10TCYx@unit unit `uc  1 a 1 wreg ]
+[v Delay10TCYx@unit unit `uc  1 a 1 0 ]
+"13
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d100tcyx.c
+[v _Delay100TCYx Delay100TCYx `(v  1 e 0 0 ]
+{
+[v Delay100TCYx@unit unit `uc  1 a 1 wreg ]
+[v Delay100TCYx@unit unit `uc  1 a 1 wreg ]
+[v Delay100TCYx@unit unit `uc  1 a 1 0 ]
+"13
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"11
+[v ___lwdiv@quotient quotient `ui  1 a 2 5 ]
+"12
+[v ___lwdiv@counter counter `uc  1 a 1 4 ]
+"8
+[v ___lwdiv@dividend dividend `ui  1 p 2 0 ]
+[v ___lwdiv@divisor divisor `ui  1 p 2 2 ]
+"31
+} 0
+"93 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v _tlc5947_count_channels tlc5947_count_channels `(v  1 e 0 0 ]
+{
+"95
+[v tlc5947_count_channels@pos pos `uc  1 a 1 10 ]
+[v tlc5947_count_channels@data data `uc  1 a 1 9 ]
+[v tlc5947_count_channels@old_data old_data `uc  1 a 1 8 ]
+"118
+} 0
+"167
+[v _tlc5947_update tlc5947_update `(v  1 e 0 0 ]
+{
+"169
+[v tlc5947_update@x x `uc  1 a 1 2 ]
+"175
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1writ.c
+[v _WriteSPI1 WriteSPI1 `(c  1 e 1 0 ]
+{
+[v WriteSPI1@data_out data_out `uc  1 a 1 wreg ]
+"15
+[v WriteSPI1@TempVar TempVar `uc  1 a 1 0 ]
+"13
+[v WriteSPI1@data_out data_out `uc  1 a 1 wreg ]
+"16
+[v WriteSPI1@data_out data_out `uc  1 a 1 1 ]
+"26
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"11
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"12
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"8
+[v ___awdiv@dividend dividend `i  1 p 2 0 ]
+[v ___awdiv@divisor divisor `i  1 p 2 2 ]
+"42
+} 0
+"12 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1read.c
+[v _ReadSPI1 ReadSPI1 `(uc  1 e 1 0 ]
+{
+"14
+[v ReadSPI1@TempVar TempVar `uc  1 a 1 0 ]
+"21
+} 0
+"154 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _readDeviceID readDeviceID `(ui  1 e 2 0 ]
+{
+"156
+[v readDeviceID@pic18_devid pic18_devid `ui  1 a 2 6 ]
+[v readDeviceID@devID2 devID2 `uc  1 a 1 9 ]
+[v readDeviceID@devID1 devID1 `uc  1 a 1 8 ]
+"171
+} 0
+"298 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/usb/src/usb_device.c
+[v _USBDeviceInit USBDeviceInit `(v  1 e 0 0 ]
+{
+"300
+[v USBDeviceInit@i i `uc  1 a 1 8 ]
+"385
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\common\memset.c
+[v _memset memset `(*.39v  1 e 2 0 ]
+{
+"15
+[v memset@p p `*.39uc  1 a 2 6 ]
+"8
+[v memset@p1 p1 `*.39v  1 p 2 0 ]
+[v memset@c c `i  1 p 2 2 ]
+[v memset@n n `ui  1 p 2 4 ]
+"22
+} 0
+"94 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\Timers\t3open.c
+[v _OpenTimer3 OpenTimer3 `(v  1 e 0 0 ]
+{
+[v OpenTimer3@config config `uc  1 a 1 wreg ]
+[v OpenTimer3@config config `uc  1 a 1 wreg ]
+[v OpenTimer3@config1 config1 `uc  1 p 1 0 ]
+"96
+[v OpenTimer3@config config `uc  1 a 1 2 ]
+"133
+} 0
+"63 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1open.c
+[v _OpenSPI1 OpenSPI1 `(v  1 e 0 0 ]
+{
+[v OpenSPI1@sync_mode sync_mode `uc  1 a 1 wreg ]
+[v OpenSPI1@sync_mode sync_mode `uc  1 a 1 wreg ]
+[v OpenSPI1@bus_mode bus_mode `uc  1 p 1 0 ]
+[v OpenSPI1@smp_phase smp_phase `uc  1 p 1 1 ]
+"65
+[v OpenSPI1@sync_mode sync_mode `uc  1 a 1 2 ]
+"136
+} 0
+"29 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\Timers\t3close.c
+[v _CloseTimer3 CloseTimer3 `(v  1 e 0 0 ]
+{
+"40
+} 0
+"62 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/karate.c
+[v _LowPriorityISRCode LowPriorityISRCode `IIL(v  1 e 0 0 ]
+{
+"68
+} 0
+"41
+[v _HighPriorityISRCode HighPriorityISRCode `II(v  1 e 0 0 ]
+{
+"60
+} 0
+"167 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v i2_tlc5947_update tlc5947_update `(v  1 e 0 0 ]
+{
+[v i2tlc5947_update@x tlc5947_update `uc  1 a 1 19 ]
+"175
+} 0
+"13 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\plib\SPI\spi1writ.c
+[v i2_WriteSPI1 WriteSPI1 `(c  1 e 1 0 ]
+{
+[v i2WriteSPI1@data_out data_out `uc  1 a 1 wreg ]
+[v i2WriteSPI1@TempVar WriteSPI1 `uc  1 a 1 17 ]
+[v i2WriteSPI1@data_out data_out `uc  1 a 1 wreg ]
+"16
+[v i2WriteSPI1@data_out data_out `uc  1 a 1 18 ]
+"26
+} 0
+"177 C:/Users/cpresser/_Daten/mplab_workspace/20_KarateLight/karate_xc8.X/src/tlc5947.c
+[v i2_tlc5947_latch tlc5947_latch `(v  1 e 0 0 ]
+{
+"191
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d10tcyx.c
+[v i2_Delay10TCYx Delay10TCYx `(v  1 e 0 0 ]
+{
+[v i2Delay10TCYx@unit unit `uc  1 a 1 wreg ]
+[v i2Delay10TCYx@unit unit `uc  1 a 1 wreg ]
+[v i2Delay10TCYx@unit unit `uc  1 a 1 17 ]
+"13
+} 0
+"8 C:\Program Files (x86)\Microchip\xc8\v1.34\sources\pic18\d100tcyx.c
+[v i2_Delay100TCYx Delay100TCYx `(v  1 e 0 0 ]
+{
+[v i2Delay100TCYx@unit unit `uc  1 a 1 wreg ]
+[v i2Delay100TCYx@unit unit `uc  1 a 1 wreg ]
+[v i2Delay100TCYx@unit unit `uc  1 a 1 17 ]
+"13
+} 0
